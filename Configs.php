@@ -20,4 +20,4 @@ if ($health['status'] !== 200) {
 }
 
 // Website root url
-$GLOBALS['WEBSITE_PATH'] = 'http://admincp.swapto.com/';
+$GLOBALS['WEBSITE_PATH'] = 'http://swape2.com/';
